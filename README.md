@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Vivek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Vivek%20Kumar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product%20Builder&descAlignY=54&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Products;Full+Stack+%2B+Generative+AI+Engineer;LangChain+%7C+Gemini+%7C+IBM+watsonx;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
@@ -25,11 +25,15 @@
 ![Followers](https://img.shields.io/github/followers/vraj64062-lgtm?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&logo=github)
 ![Stars](https://img.shields.io/github/stars/vraj64062-lgtm?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
+
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🧠 About Me
 
@@ -52,7 +56,7 @@ I've been recognized in **pan-IIT AI/ML hackathons (Convolve 4.0)** and **IBM's 
 🎯 Open To: Software Engineering Internships | AI/ML Engineering Roles | Full Stack Opportunities | Open Source Collaboration
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## ⚙️ Tech Stack
 
@@ -80,9 +84,13 @@ I've been recognized in **pan-IIT AI/ML hackathons (Convolve 4.0)** and **IBM's 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,oracle&theme=dark"/>
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="180"/>
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🤖 AI / ML Expertise
 
@@ -99,9 +107,14 @@ I've been recognized in **pan-IIT AI/ML hackathons (Convolve 4.0)** and **IBM's 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=550&lines=Shipping+AI-native+products+end-to-end..." />
+</div>
+<br/>
 
 <details open>
 <summary><b>🩺 Apna Chikitsak — AI Healthcare Assistant</b></summary>
@@ -154,7 +167,7 @@ A real-time AI assistant that interprets live camera input and answers contextua
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 💼 Experience
 
@@ -169,7 +182,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 `IBM watsonx Orchestrate` `Python` `Workflow Automation` `Agentic AI`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🏆 Achievements
 
@@ -184,7 +197,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 📜 Certifications
 
@@ -217,7 +230,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 💻 Coding Profiles
 
@@ -230,7 +243,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -245,7 +258,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -255,7 +268,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 📈 Contribution Activity
 
@@ -265,7 +278,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -275,7 +288,7 @@ Collaborated on designing and presenting an agentic workflow automation solution
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 🎯 Current Focus
 
@@ -299,11 +312,15 @@ Open To:
   - Open Source Collaboration
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 ## 📬 Connect With Me
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Let's+build+something+great+together!;Open+to+internships+%26+collaborations." />
+
+<br/><br/>
 
 <a href="mailto:vraj64062@gmail.com"><img src="https://img.shields.io/badge/Gmail-vraj64062%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vivek-kumar-239919386"><img src="https://img.shields.io/badge/LinkedIn-vivek--kumar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -312,7 +329,7 @@ Open To:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:0f0c29&height=3&width=100%"/>
 
 <div align="center">
 
