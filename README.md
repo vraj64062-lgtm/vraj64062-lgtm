@@ -193,6 +193,12 @@ Delivered AI-driven automation and computer vision tooling under high-pressure h
 ## 🏆 Achievements
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,100:6D28D9&height=2&width=1200"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 | Recognition | Details |
 |---|---|
@@ -210,20 +216,89 @@ Delivered AI-driven automation and computer vision tooling under high-pressure h
 
 ## 📜 Certifications
 
-**☁️ Oracle**
-[![OCI GenAI](https://img.shields.io/badge/OCI-Generative%20AI%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,100:4C1D95&height=2&width=1200"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### ☁️ Oracle
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![OCI GenAI Professional](https://img.shields.io/badge/OCI-Generative%20AI%20Professional-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Issued Oct 30, 2025</sub>
+
+</td>
+<td align="center" width="50%">
+
 [![OCI AI Foundations](https://img.shields.io/badge/OCI-AI%20Foundations%20Associate-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Issued Oct 29, 2025</sub>
 
-**🔶 AWS**
-[![AWS ML/AI](https://img.shields.io/badge/AWS-Fundamentals%20of%20ML%20%26%20AI-A855F7?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+</td>
+</tr>
+</table>
 
-**🟣 Google**
-[![Google AI Agents](https://img.shields.io/badge/Google%20Kaggle-5--Day%20AI%20Agents-8B5CF6?style=for-the-badge&logo=google&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
-[![Google GenAI](https://img.shields.io/badge/Google%20Cloud-Intro%20to%20Generative%20AI-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
-[![Prompt to Prototype](https://img.shields.io/badge/Google%20for%20Startups-Prompt%20to%20Prototype-8B5CF6?style=for-the-badge&logo=google&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+### 🔶 AWS
 
-**🔵 IBM**
-[![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-Agentic%20AI%20Hackathon-7C3AED?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<table>
+<tr>
+<td align="center" width="100%">
+
+[![AWS ML/AI Fundamentals](https://img.shields.io/badge/AWS-Fundamentals%20of%20ML%20%26%20AI-A855F7?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Issued Jul 08, 2026</sub>
+
+</td>
+</tr>
+</table>
+
+### 🟣 Google
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![Google AI Agents](https://img.shields.io/badge/Kaggle-5--Day%20AI%20Agents-8B5CF6?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Dec 18, 2025</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![Google GenAI](https://img.shields.io/badge/Cloud-Intro%20to%20Gen%20AI-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Sep 06, 2025</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![Prompt to Prototype](https://img.shields.io/badge/Startups-Prompt%20to%20Prototype-8B5CF6?style=for-the-badge&logo=google&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Dec 19, 2025</sub>
+
+</td>
+</tr>
+</table>
+
+### 🔵 IBM
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+[![IBM watsonx](https://img.shields.io/badge/watsonx%20Orchestrate-Agentic%20AI%20Hackathon-7C3AED?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0F0524)](https://github.com/vraj64062-lgtm)
+<br/><sub>🗓️ Nov 23, 2025</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:1E1033&height=2&width=1200"/>
+</div>
 
 <br/>
 
@@ -243,6 +318,12 @@ Delivered AI-driven automation and computer vision tooling under high-pressure h
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,50:4C1D95,100:7C3AED&height=2&width=1200"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -285,9 +366,31 @@ Delivered AI-driven automation and computer vision tooling under high-pressure h
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vraj64062-lgtm/vraj64062-lgtm/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0524,50:4C1D95,100:7C3AED&height=3&width=1200"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/vraj64062-lgtm/vraj64062-lgtm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://raw.githubusercontent.com/vraj64062-lgtm/vraj64062-lgtm/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+
+<br/>
+
+*The snake eats through my contribution graph — regenerated daily via GitHub Actions.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:4C1D95,100:0F0524&height=3&width=1200"/>
 
 </div>
+
+<details>
+<summary><b>⚙️ Enable this on your own profile</b></summary>
+<br/>
+
+1. Create a repo named exactly `<your-username>`, add this file as its `README.md`
+2. Add `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action
+3. Commit to `main` — the action generates `output/github-contribution-grid-snake-dark.svg` on a schedule
+4. Point the `<img>` src above at your own repo path
+
+</details>
 
 <br/>
 
